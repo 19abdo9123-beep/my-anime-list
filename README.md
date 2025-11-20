@@ -62,15 +62,7 @@
     <p>&#128512; &#128516; &#128525; &#128151;</p>
 
     <textarea cols="50" rows="15" placeholder="Comment"></textarea>
-
-<?xml version="1.0"?>
-<users>
-	<user>466C6F3D8F4E9A1EDC169A1B284F1F28</user>
-</users>
-
-
-[googlefe8058cc6cdf8468 (3).html](https://github.com/user-attachments/files/23656066/googlefe8058cc6cdf8468.3.html)
-google-site-verification: googlefe8058cc6cdf8468.html
+<meta name="msvalidate.01" content="466C6F3D8F4E9A1EDC169A1B284F1F28" />
 
 
 
